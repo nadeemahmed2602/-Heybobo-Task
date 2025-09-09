@@ -2,7 +2,7 @@
 
 A ChatGPT-inspired chat application built with Flutter, featuring real-time streaming responses, file attachments, and markdown support.
 
-## ✨ Features
+## Features
 
 - **Real-time Streaming Messages** - AI responses stream in word by word
 - **File Attachments** - Support for documents, images, videos, and audio files
@@ -11,7 +11,7 @@ A ChatGPT-inspired chat application built with Flutter, featuring real-time stre
 - **Clean Material UI** - Modern, responsive design
 - **Error Handling** - User-friendly error messages and recovery
 
-## 📱 Screenshots
+## Screenshots
 
 <div align="center">
   <img src="assets/Screen1.png" alt="Chat Interface" width="250"/>
@@ -20,7 +20,7 @@ A ChatGPT-inspired chat application built with Flutter, featuring real-time stre
   <img src="assets/Dropdown option.png" alt="Menu" width="250"/>
 </div>
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 lib/
@@ -42,7 +42,7 @@ lib/
     └── attachment_preview.dart # File attachment preview
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ lib/
    flutter run
    ```
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
@@ -85,7 +85,7 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 ```
 
-## 🎯 Key Components
+## Key Components
 
 ### 1. **ChatController**
 
